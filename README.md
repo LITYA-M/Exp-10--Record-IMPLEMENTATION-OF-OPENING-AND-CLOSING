@@ -87,14 +87,16 @@ plt.axis('off')
 # Output
 Original Image
 
-<img width="470" height="490" alt="image" src="https://github.com/user-attachments/assets/61635b82-ebef-4bce-8913-46b7a5b09ffc" />
+<img width="465" height="502" alt="image" src="https://github.com/user-attachments/assets/814f006d-a76e-4051-b2e2-2b26fcfa0972" />
+
 
 The input image is displayed.
 The image serves as the source for morphological processing.
 
 Opening Operation
 
-<img width="472" height="492" alt="image" src="https://github.com/user-attachments/assets/cce05744-31ea-4e16-8c22-c3287df3f677" />
+<img width="467" height="492" alt="image" src="https://github.com/user-attachments/assets/3a7d2ed3-0715-4d3a-89ec-9170a5c021c7" />
+
 
 Original image is displayed.
 Opened image is displayed.
@@ -104,7 +106,8 @@ Object boundaries become smoother.
 
 Closing Operation
 
-<img width="465" height="495" alt="image" src="https://github.com/user-attachments/assets/2bc1ccca-7f26-4b43-a55d-0ed13774b618" />
+<img width="480" height="492" alt="image" src="https://github.com/user-attachments/assets/570739c5-08d8-435b-a22a-ddcd0b4d68d1" />
+
 
 Original image is displayed.
 Closed image is displayed.
